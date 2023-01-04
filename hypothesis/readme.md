@@ -1,5 +1,5 @@
 # Приоритизация и проверка гипотез по увеличению выручки интернет-магазина
-<code>[hypothesis.ipynb](https://github.com/AleksandrK86/practicum/blob/main/hypothesis/hypothesis.ipynb)
+<code>[hypothesis.ipynb](https://github.com/AleksandrK86/practicum/blob/main/hypothesis/hypothesis.ipynb) [hypothesis_eng.ipynb](https://github.com/AleksandrK86/practicum/blob/main/hypothesis/hypothesis_eng.ipynb)
 </code>
 
 ## Описание проекта
