@@ -1,5 +1,5 @@
 # Анализ московской сети общепита
-<code>[coffee_places.ipynb](https://github.com/AleksandrK86/practicum/blob/main/hypothesis/coffee_places.ipynb)</code>
+<code>[coffee_places.ipynb](https://github.com/AleksandrK86/practicum/blob/main/coffee_places/coffee_places.ipynb)</code>
 
 Презентация: [coffee.pdf](https://github.com/AleksandrK86/practicum/files/10344608/coffee.1.pdf)
 
