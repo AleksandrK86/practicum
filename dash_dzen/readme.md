@@ -8,4 +8,4 @@
 * Работа над этим проектом проведена на удаленной машине в сервисе Yandex.Cloud. Установлен PostgreSQL, развернута база данных.
 * Написан скрипт пайплайна, который позволил собрать данные за определенный временной период.
 * Дашборд на основании собранных данных был создан в Tableau: [перейти к дашборду](https://public.tableau.com/app/profile/aleksandr.karpukhin/viz/Dzen_16718871338530/Dashboard)
-* По результатам была подготовлена презентация с полученными графиками: [Dzen.pdf](https://github.com/AleksandrK86/practicum/dash_dzen/Dzen.pdf)
+* По результатам была подготовлена презентация с полученными графиками: [Dzen.pdf](https://github.com/AleksandrK86/practicum/blob/main/dash_dzen/Dzen.pdf)
