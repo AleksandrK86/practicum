@@ -1,4 +1,4 @@
-# # Анализ рекламной кампании приложения **Procrastinate Pro+**
+# Анализ рекламной кампании приложения **Procrastinate Pro+**
 <code>[mrkt.ipynb](https://github.com/AleksandrK86/practicum/blob/main/mrkt/mrkt.ipynb)
 </code>
 
