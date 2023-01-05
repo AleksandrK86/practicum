@@ -1,4 +1,4 @@
-# # Анализ поведения пользователей в мобильном приложении и результатов эксперимента по изменению шрифтов.
+## Анализ поведения пользователей в мобильном приложении и результатов эксперимента по изменению шрифтов.
 <code>[event_analysis.ipynb](https://github.com/AleksandrK86/practicum/blob/main/events_analysis/events_analysis.ipynb)
 </code>
 
