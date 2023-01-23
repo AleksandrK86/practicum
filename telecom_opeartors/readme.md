@@ -1,7 +1,7 @@
 # Поиск неэффективных операторов
-[Telecom_opeartors.ipynb](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/Telecom_operators.ipynb)</code> (Jupiter Notebook)
-[Презентация (PDF)](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/presentation.pdf) (PDF)
-[Дашборд](https://public.tableau.com/views/Telecom_16738978921550/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau)
+* [Telecom_opeartors.ipynb](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/Telecom_operators.ipynb)</code> (Jupiter Notebook)
+* [Презентация (PDF)](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/presentation.pdf) (PDF)
+* [Дашборд](https://public.tableau.com/views/Telecom_16738978921550/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau)
 
 ## Описание проекта
 Компания - оператор связи "Нупозвони", клиентами которой являются колл-центры, как работающие с входящими вызовами, так и специализирующиеся на обзвонах, прорабатывает идею нового сервиса: определение неэффективных операторов колл-центров.
