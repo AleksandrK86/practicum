@@ -1,6 +1,6 @@
 # Поиск неэффективных операторов
 * [Telecom_opeartors.ipynb](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/Telecom_operators.ipynb)</code> (Jupiter Notebook)
-* [Презентация (PDF)](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/presentation.pdf) (PDF)
+* [Презентация](https://github.com/AleksandrK86/practicum/blob/main/telecom_opeartors/presentation.pdf) (PDF)
 * [Дашборд](https://public.tableau.com/views/Telecom_16738978921550/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) (Tableau)
 
 ## Описание проекта
