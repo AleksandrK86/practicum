@@ -1,6 +1,6 @@
 # Анализ результатов A/B теста по внедрению рекомендательной системы
 
-Ссылка на проект (Jupiter Notebook): [ab_test_recom_syst.ipynb]()
+[ab_test_recom_syst.ipynb](https://github.com/AleksandrK86/practicum/blob/main/ab_test_recom_syst/ab_test_recom_syst.ipynb) (Jupiter Notebook)
 
 ## Описание проекта
 
